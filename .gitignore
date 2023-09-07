@@ -2,3 +2,5 @@ a
 hello.exe
 hello.hi
 hello.o
+dist-newstyle/
+nine.cabal
